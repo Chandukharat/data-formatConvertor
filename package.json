@@ -1,0 +1,24 @@
+{
+  "name": "data-formatconvertor",
+  "version": "1.0.0",
+  "description": "A simple javascript package which converts a Json object to YAML format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chandu Vijay Kharat",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chandukharat/data-formatConvertor.git"
+  },
+  "keywords": [
+    "data",
+    "format",
+    "convertor"
+  ],
+  "bugs": {
+    "url": "https://github.com/Chandukharat/data-formatConvertor/issues"
+  },
+  "homepage": "https://github.com/Chandukharat/data-formatConvertor#readme"
+}
